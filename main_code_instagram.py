@@ -1,3 +1,4 @@
+# First run 'pip install instagramy' in terminal of pycharm then execute the below program
 from instagramy import InstagramUser
 
 Id=input("Enter Instagram ID= ")
